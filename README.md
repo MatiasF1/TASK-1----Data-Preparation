@@ -28,3 +28,7 @@ fig = px.pie(data, values='Flights', names='DistanceGroup', title='Distance grou
 # then i follow the instructions from the forum and still have the same problem
 ![image](https://github.com/user-attachments/assets/880fa7de-d366-4ad3-b03c-2b63b232f0fd)
 ![image](https://github.com/user-attachments/assets/652d8e9c-1ea5-4390-ae7c-4208d2613bf1)
+
+# after doing the instructions of the forum:
+![image](https://github.com/user-attachments/assets/6e1a9c28-a6f6-47d4-9e27-2ef21c60c01c)
+![image](https://github.com/user-attachments/assets/c27dbad9-0cc9-4a0e-b204-a8fd73f7740d)
